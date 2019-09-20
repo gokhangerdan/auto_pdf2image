@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ```
 python3 convert.py <PATH>
 ```
-Example directory tree:
+### Example directory tree:
 ```
 -docs
   |
@@ -25,7 +25,7 @@ Example directory tree:
      |
       ---doc6.pdf
 ```
-Result directory tree:
+### Result directory tree:
 ```
 -docs
   |
